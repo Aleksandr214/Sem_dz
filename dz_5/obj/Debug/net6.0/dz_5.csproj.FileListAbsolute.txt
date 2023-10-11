@@ -1,0 +1,15 @@
+C:\Users\aleks\seminar_dz\dz_5\bin\Debug\net6.0\dz_5.exe
+C:\Users\aleks\seminar_dz\dz_5\bin\Debug\net6.0\dz_5.deps.json
+C:\Users\aleks\seminar_dz\dz_5\bin\Debug\net6.0\dz_5.runtimeconfig.json
+C:\Users\aleks\seminar_dz\dz_5\bin\Debug\net6.0\dz_5.dll
+C:\Users\aleks\seminar_dz\dz_5\bin\Debug\net6.0\ref\dz_5.dll
+C:\Users\aleks\seminar_dz\dz_5\bin\Debug\net6.0\dz_5.pdb
+C:\Users\aleks\seminar_dz\dz_5\obj\Debug\net6.0\dz_5.csproj.AssemblyReference.cache
+C:\Users\aleks\seminar_dz\dz_5\obj\Debug\net6.0\dz_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\seminar_dz\dz_5\obj\Debug\net6.0\dz_5.AssemblyInfoInputs.cache
+C:\Users\aleks\seminar_dz\dz_5\obj\Debug\net6.0\dz_5.AssemblyInfo.cs
+C:\Users\aleks\seminar_dz\dz_5\obj\Debug\net6.0\dz_5.csproj.CoreCompileInputs.cache
+C:\Users\aleks\seminar_dz\dz_5\obj\Debug\net6.0\dz_5.dll
+C:\Users\aleks\seminar_dz\dz_5\obj\Debug\net6.0\ref\dz_5.dll
+C:\Users\aleks\seminar_dz\dz_5\obj\Debug\net6.0\dz_5.pdb
+C:\Users\aleks\seminar_dz\dz_5\obj\Debug\net6.0\dz_5.genruntimeconfig.cache

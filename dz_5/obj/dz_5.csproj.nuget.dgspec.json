@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleks\\seminar_dz\\seminar_dz.csproj": {}
+    "C:\\Users\\aleks\\seminar_dz\\dz_5\\dz_5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleks\\seminar_dz\\seminar_dz.csproj": {
+    "C:\\Users\\aleks\\seminar_dz\\dz_5\\dz_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleks\\seminar_dz\\seminar_dz.csproj",
-        "projectName": "seminar_dz",
-        "projectPath": "C:\\Users\\aleks\\seminar_dz\\seminar_dz.csproj",
+        "projectUniqueName": "C:\\Users\\aleks\\seminar_dz\\dz_5\\dz_5.csproj",
+        "projectName": "dz_5",
+        "projectPath": "C:\\Users\\aleks\\seminar_dz\\dz_5\\dz_5.csproj",
         "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleks\\seminar_dz\\obj\\",
+        "outputPath": "C:\\Users\\aleks\\seminar_dz\\dz_5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config"
