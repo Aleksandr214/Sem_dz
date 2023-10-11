@@ -1,0 +1,15 @@
+C:\Users\aleks\lessons\sem_01\bin\Debug\net6.0\sem_01.exe
+C:\Users\aleks\lessons\sem_01\bin\Debug\net6.0\sem_01.deps.json
+C:\Users\aleks\lessons\sem_01\bin\Debug\net6.0\sem_01.runtimeconfig.json
+C:\Users\aleks\lessons\sem_01\bin\Debug\net6.0\sem_01.dll
+C:\Users\aleks\lessons\sem_01\bin\Debug\net6.0\ref\sem_01.dll
+C:\Users\aleks\lessons\sem_01\bin\Debug\net6.0\sem_01.pdb
+C:\Users\aleks\lessons\sem_01\obj\Debug\net6.0\sem_01.csproj.AssemblyReference.cache
+C:\Users\aleks\lessons\sem_01\obj\Debug\net6.0\sem_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\lessons\sem_01\obj\Debug\net6.0\sem_01.AssemblyInfoInputs.cache
+C:\Users\aleks\lessons\sem_01\obj\Debug\net6.0\sem_01.AssemblyInfo.cs
+C:\Users\aleks\lessons\sem_01\obj\Debug\net6.0\sem_01.csproj.CoreCompileInputs.cache
+C:\Users\aleks\lessons\sem_01\obj\Debug\net6.0\sem_01.dll
+C:\Users\aleks\lessons\sem_01\obj\Debug\net6.0\ref\sem_01.dll
+C:\Users\aleks\lessons\sem_01\obj\Debug\net6.0\sem_01.pdb
+C:\Users\aleks\lessons\sem_01\obj\Debug\net6.0\sem_01.genruntimeconfig.cache
