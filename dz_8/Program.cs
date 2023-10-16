@@ -2,7 +2,7 @@
 //Метод должен проверить является ли число пятизначным, в противном случае - вывести Число не пятизначное и False в следующей строке.
 //Для остальных чисел вернуть True или False.
 Console.WriteLine("Введите число: ");
-string number = Console.ReadLine();
+string? number = Console.ReadLine();
 int len = number.Length;
 
 if (len == 5)
@@ -13,10 +13,11 @@ if (len == 5)
     }
     else
     {
-        Console.WriteLine($"{number} - НЕ палиндром");
+       Console.WriteLine($"{number} - НЕ палиндром");
     }
 }
 else
 {
     Console.WriteLine($"ОШИБКА: {number} - не является пятизначным");
-}
+}    
+
