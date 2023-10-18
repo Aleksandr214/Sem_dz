@@ -1,4 +1,9 @@
-﻿int number = ReadInt("Введите число: ");
+﻿//Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
+//452 -> 11
+//82 -> 10
+//9012 -> 12
+
+int number = ReadInt("Введите число: ");
 int len = NumberLen(number);
 SumNumbers(number, len);
 
