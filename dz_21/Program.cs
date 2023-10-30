@@ -66,8 +66,8 @@ void PrintArray(double[] array)
 }
 
 // Функция ввода 
-int ReadInt(string text)
-{
-    Console.Write(text);
-    return Convert.ToInt32(Console.ReadLine());
-}
+// int ReadInt(string text)
+// {
+//     Console.Write(text);
+//     return Convert.ToInt32(Console.ReadLine());
+// }
