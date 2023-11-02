@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleks\\lessons\\sem_01\\sem_01.csproj": {}
+    "C:\\Users\\aleks\\seminar_dz\\dz_1\\sem_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleks\\lessons\\sem_01\\sem_01.csproj": {
+    "C:\\Users\\aleks\\seminar_dz\\dz_1\\sem_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleks\\lessons\\sem_01\\sem_01.csproj",
+        "projectUniqueName": "C:\\Users\\aleks\\seminar_dz\\dz_1\\sem_01.csproj",
         "projectName": "sem_01",
-        "projectPath": "C:\\Users\\aleks\\lessons\\sem_01\\sem_01.csproj",
+        "projectPath": "C:\\Users\\aleks\\seminar_dz\\dz_1\\sem_01.csproj",
         "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleks\\lessons\\sem_01\\obj\\",
+        "outputPath": "C:\\Users\\aleks\\seminar_dz\\dz_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.122\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.124\\RuntimeIdentifierGraph.json"
         }
       }
     }
