@@ -55,3 +55,69 @@ void PrintArray(int[,] array)
         Console.WriteLine("");
     }
 }
+// using System;
+
+// class Program
+// {
+//     static void Main()
+//     {
+//         Console.WriteLine("Введите количество строк:");
+//         int rows = Convert.ToInt32(Console.ReadLine());
+
+//         Console.WriteLine("Введите количество столбцов:");
+//         int columns = Convert.ToInt32(Console.ReadLine());
+
+//         int[,] array = new int[rows, columns];
+//         FillArrayRandomNumbers(array);
+
+//         Console.WriteLine("Массив до сортировки:");
+//         PrintArray(array);
+
+//         SortRowsDescending(array);
+
+//         Console.WriteLine("Массив после сортировки:");
+//         PrintArray(array);
+//     }
+
+//     static void SortRowsDescending(int[,] array)
+//     {
+//         for (int i = 0; i < array.GetLength(0); i++)
+//         {
+//             Array.Sort(GetRow(array, i), (a, b) => b.CompareTo(a));
+//         }
+//     }
+
+//     static int[] GetRow(int[,] array, int row)
+//     {
+//         int[] result = new int[array.GetLength(1)];
+//         for (int i = 0; i < array.GetLength(1); i++)
+//         {
+//             result[i] = array[row, i];
+//         }
+//         return result;
+//     }
+
+//     static void FillArrayRandomNumbers(int[,] array)
+//     {
+//         Random random = new Random();
+//         for (int i = 0; i < array.GetLength(0); i++)
+//         {
+//             for (int j = 0; j < array.GetLength(1); j++)
+//             {
+//                 array[i, j] = random.Next(0, 100); // Меняйте диапазон случайных чисел по необходимости
+//             }
+//         }
+//     }
+
+//     static void PrintArray(int[,] array)
+//     {
+//         for (int i = 0; i < array.GetLength(0); i++)
+//         {
+//             for (int j = 0; j < array.GetLength(1); j++)
+//             {
+//                 Console.Write(array[i, j] + " ");
+//             }
+//             Console.WriteLine();
+//         }
+//     }
+// }
