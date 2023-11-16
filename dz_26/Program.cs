@@ -39,3 +39,36 @@ void PrintArray(int[,] array)
         Console.WriteLine("");
     }
 }
+
+//треугольник Паскаля
+// using System;
+
+// class PascalTriangle
+// {
+//     static void Main()
+//     {
+//         int rows;
+
+//         Console.WriteLine("Введите количество строк для треугольника Паскаля: ");
+//         while (!int.TryParse(Console.ReadLine(), out rows) || rows <= 0)
+//         {
+//             Console.WriteLine("Введите положительное целое число: ");
+//         }
+
+//         PrintPascalTriangle(rows);
+//     }
+
+//     static void PrintPascalTriangle(int rows)
+//     {
+//         for (int i = 0; i < rows; i++)
+//         {
+//             int number = 1;
+//             for (int j = 0; j <= i; j++)
+//             {
+//                 Console.Write(number + " ");
+//                 number = number * (i - j) / (j + 1);
+//             }
+//             Console.WriteLine();
+//         }
+//     }
+// }
