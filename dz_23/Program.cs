@@ -49,3 +49,66 @@ void PrintArray(int[,] array)
         Console.WriteLine("");
     }
 }
+   
+//     Console.WriteLine("Введите количество строк:");
+//     int rows = Convert.ToInt32(Console.ReadLine());
+
+//     Console.WriteLine("Введите количество столбцов:");
+//     int columns = Convert.ToInt32(Console.ReadLine());
+
+//     int[,] array = new int[rows, columns];
+//     FillArrayRandomNumbers(array);
+
+//     Console.WriteLine("Массив:");
+//     PrintArray(array);
+
+//     int minSumRow = FindRowWithMinSum(array);
+//     Console.WriteLine($"Строка с наименьшей суммой элементов: {minSumRow}");
+    
+
+//  int FindRowWithMinSum(int[,] array)
+// {
+//     int minRow = 0;
+//     int minSum = int.MaxValue;
+
+//     for (int i = 0; i < array.GetLength(0); i++)
+//     {
+//         int currentSum = 0;
+//         for (int j = 0; j < array.GetLength(1); j++)
+//         {
+//              currentSum += array[i, j];
+//         }
+
+//         if (currentSum < minSum)
+//         {
+//             minSum = currentSum;
+//             minRow = i;
+//         }
+//     }
+
+//     return minRow;
+// }
+
+//  void FillArrayRandomNumbers(int[,] array)
+// {
+//     Random random = new Random();
+//     for (int i = 0; i < array.GetLength(0); i++)
+//     {
+//         for (int j = 0; j < array.GetLength(1); j++)
+//         {
+//             array[i, j] = random.Next(0, 10); // Меняйте диапазон случайных чисел по необходимости
+//         }
+//     }
+// }
+
+//  void PrintArray(int[,] array)
+// {
+//     for (int i = 0; i < array.GetLength(0); i++)
+//     {
+//         for (int j = 0; j < array.GetLength(1); j++)
+//         {
+//             Console.Write(array[i, j] + " ");
+//         }
+//         Console.WriteLine();
+//     }
+// }
